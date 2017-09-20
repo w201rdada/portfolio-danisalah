@@ -1,24 +1,21 @@
-# My first cool idea {#slug-one}
+# Custom Tailored Impact Investments {#Financial firms build impact products algorithmically determined by internet profiles: millennials invest in the change they want to see}
 
 #### Keywords
 
-yaba, daba, do
+finance, investing, social media, impact
 
 ## A beginning.
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Within the impact investing industry, there is an assertion from large financial institutions that there is not significant interest to build new investment products. They aren't feeling the demand because many first time investors haven't considered that investing can help solve large, global problems they care about. If institutions had a better way to measure and capture latent demand, they may understand the impetus in creating new impact focused products.
 
 ## A middle.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+There should exist a solution with which to catalyze potential investors who may be interested in products that are perfectly aligned with their interests, and to do so in such a way that instutions can measure specific demand to build products based on this demand.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+Using a technology similar to IBM Watson's social media analysis, this product would scrape user profiles on social media sites to build a list of likely interests and determine a likelihood for investment in a particular philanthropically-aligned product. An individual who engages in a significant amount of internal travel content may be interested in investing in products that aid in international development. An individual with strong religious preferences may invest in products that align with the specific tennats of that religion. An individual who often reviews businesses on yelp may be interested in investments in local small businesses in their area.
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+By aggregating this data, an institutional firm could estimate the demand for a new investment product, and would have already gathered a significantly sized initial demographic to target for sales and marketing.
 
 ## An end.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Of course, consumers are becoming more aware of and weary of sales attempts based on personal data collected, and anything that feels too "sales-y" may immediately turn off the potential investor. However, if the product offering was targeted enough and did a sufficient job of meeting existing interests, this may be a surmountable challenge.
