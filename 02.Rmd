@@ -4,16 +4,16 @@
 
 Healthcare, Sensors, Diabetes, Animals, Pets
 
-## A beginning.
+## Managing pet health is hard
 
 Data sicence is driving signficant strides human healthcare everyday, from better data collection that can be shared with a suite of healtchare professionals to on-body sensors that better predict upcoming health hazards. While these advances are spectacular and necessary, a different subset of our population has yet to reap the benefits in a significant way: our pets. This is an issue that I fequently consider, being the ownder of a dog who has lived with diabetes for the past two years. I must be extremely precise with her feeding times and amounts so that I can administer the appropriate dosage of insulin, as perscribed by her doctor and adjusted every six months on average. The adjustment process requires my dog to be under doctor supervision for a 24 hour period during which she repeatedly has blood drawn every hour so that her blood glucose levels can be measured. This is a process that is both tramatic and expensive, and most importantly, it does not capture what the variations in her health on a day-to-day basis.
 
-## A middle.
+## Solutions exist, but not for animals
 
 One promising solution to this problem comes from advancements in human diabetes treatment: an on-body sensor that can measure blood glucose levels without requiring that a blood sample be drawn. The sensor would sit at the animal's neck, while the device used to read the results is attached to the pet's collar. This alone would provide daily blood glucose levels that could be read after each meal and be  used to inform how much insulin is required at that particular time.
 
 This already solves the problem of not knowing exactly how much insulin should be administered each day. But with some additions to the sensor, the tool can become even more useful. By combining the technology of the FreeStyle Libre Flash Glucose Monitoring System with that of existing pet activity trackers such as FitBark, the product can become much more useful. The data that is collected by FitBark can be used in a variety of ways, but one output is a recommendation on the calorie quantity that should be consumed based on the pet's recent activity. It follows that my dog would need to eat less on days when her activity levels are lower, and that she would need to eat more on days when we visit the dog park and her activity is above average. Without a tool like FitBark, I would not be able to gauge how much food she needs. But even if I could, I would need real-time blood glucose sensor to be able to appropriately adjust her medication level. The combination of these two features into a single product would ensure that my dog's diabetes is being treated as best as possible, according to a plan that has been tailored specifically to her requirements and that adjusts daily as her behavior changes and fluctuates.
 
-## An end.
+## Future applications
 
 Of course, the described product solves a particularly niche problem that is not shared by most pet owners. However, most pet owners truly do want to do what's best for their animal family members, and there could be additional measurements that provide information which could be used to better manage a pet's health between trips to the vet. The product can be built to be as sophisticated as the underlying technology accounts for - early tests for cancer or organ failure, basic heart rate measurements to sense high levels of anxiety, and the obvious weight management would all likely be useful for pet owners who want to invest in the health of their animals. The most prohibitive factor to wide spread adoption would of course be cost, but further technological developments promise to drive costs down, and there will always be a segment of the market who will go above and beyond to keep their pets healthy and happy.
