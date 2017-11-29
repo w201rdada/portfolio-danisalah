@@ -1,6 +1,6 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
+author: "Dani Salah"
 date: "MIDS Fall 2017"
 site: bookdown::bookdown_site
 documentclass: book
@@ -19,7 +19,7 @@ library(magrittr)
 knitr::include_graphics('img/hello-world.png')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
+Welcome to Dani Salah's RDADA portfolio! Here you will find abstracts as well as deeper exploration of two Big Ideas.
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
@@ -27,20 +27,17 @@ Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland 
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### Pet Wellness Sensor
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+This innovative product brings advances being made in predictive and personalized healthcare to our pets at home. By applying a sensor to the neck of a dog or cat and a reader to the collar, various health measures can be tracked, with an initial use case for diabetic animals whose blood sugar would be continually recorded and analyzed.
 
-### Abstract of my second cool idea
+### Impact Analyzer
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
+Using a crawling tool to scrape information from Facebook, LinkedIn, and Twitter, large financial institutions can estimate a market size for impact-focused investment products before the products are built. The web crawling tool will output a database of individuals without a target demographic who are likely to invest (based on age, job titles and salary estimates), and cross reference that with available published interested on social media platforms.
   
-### Abstract of my third cool idea
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
-
 ## About the author {-}
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+Danielle Salah is currently pursuing a Masters of Information and Data Science at UC Berkeley's School of Information. Previously, she held data management roles in the impact investing industry where she aimed to use data to inform investment decisions to maximize environmental and social impact. Before that, she received an MBA in Sustainable Management from Presidio Graduate School and a BS in Environmental Engineering from the University of Southern California.
+
 
 *Updated: `r Sys.Date()`*
