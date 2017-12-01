@@ -27,11 +27,11 @@ Welcome to Dani Salah's RDADA portfolio! Here you will find abstracts as well as
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Pet Wellness Sensor
+### Pet Wellness Sensor {-}
 
 This innovative product brings advances being made in predictive and personalized healthcare to our pets at home. By applying a sensor to the neck of a dog or cat and a reader to the collar, various health measures can be tracked, with an initial use case for diabetic animals whose blood sugar would be continually recorded and analyzed.
 
-### Impact Analyzer
+### Impact Analyzer {-}
 
 Using a crawling tool to scrape information from Facebook, LinkedIn, and Twitter, large financial institutions can estimate a market size for impact-focused investment products before the products are built. The web crawling tool will output a database of individuals without a target demographic who are likely to invest (based on age, job titles and salary estimates), and cross reference that with available published interested on social media platforms.
   
